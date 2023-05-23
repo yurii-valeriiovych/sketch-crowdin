@@ -1,0 +1,3 @@
+files:
+  - source: /assets/texts.json
+    translation: assets_uk/texts_uk.json
